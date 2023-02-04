@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.1.0...0.1.1) (2023-02-04)
+
+
+### Bug Fixes
+
+* cjs export ([4da1b17](https://github.com/evionica-devs/eslint-config-evionica/commit/4da1b17e8d3319e580f5aee202a1a68a26c843f7))
+
 # 0.1.0 (2023-02-04)
 
 
