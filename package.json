@@ -28,6 +28,13 @@
     "type": "git",
     "url": "git@github.com:evionica-devs/eslint-config-evionica.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18.0.0 || >=16.0.0 || >=14.0.0"
+  },
+  "packageManager": "pnpm@7.18.0",
   "dependencies": {
     "eslint": "^8.29.0",
     "eslint-import-resolver-typescript": "^3.5.2",
@@ -43,9 +50,12 @@
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2",
-    "husky": "^8.0.0"
+    "@release-it/conventional-changelog": "^5.1.1",
+    "husky": "^8.0.0",
+    "release-it": "^15.6.0"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release:ci": "release-it --ci"
   }
 }

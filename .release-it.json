@@ -1,0 +1,19 @@
+{
+  "git": {
+    "commitMessage": "build: release v${version}"
+  },
+  "github": {
+    "release": true
+  },
+  "npm": {
+    "ignoreVersion": true,
+    "versionArgs": ["--allow-same-version"]
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": "angular",
+      "infile": "CHANGELOG.md",
+      "header": "# Changelog"
+    }
+  }
+}
