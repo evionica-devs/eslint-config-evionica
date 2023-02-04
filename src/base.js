@@ -1,4 +1,4 @@
-exports.module = {
+module.exports = {
   plugins: [
     "import",
     "unused-imports",
