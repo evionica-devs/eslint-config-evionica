@@ -1,0 +1,51 @@
+{
+  "name": "eslint-config-evionica",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "exports": {
+    ".": "./src/base.js",
+    "./base": "./src/base.js",
+    "./ts": "./src/ts.js",
+    "./vue": "./src/vue.js"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "evionica"
+  ],
+  "contributors": [
+    {
+      "name": "Mateusz Gostański",
+      "email": "mateusz.gostanski@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evionica-devs/eslint-config-evionica/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evionica-devs/eslint-config-evionica.git"
+  },
+  "dependencies": {
+    "eslint": "^8.29.0",
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "eslint-plugin-compat": "^4.0.2",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-tsdoc": "^0.2.17",
+    "eslint-plugin-unicorn": "^45.0.1",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "eslint-plugin-vue": "^9.8.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
