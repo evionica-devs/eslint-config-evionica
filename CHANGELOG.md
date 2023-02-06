@@ -1,5 +1,12 @@
 # Changelog
 
+# [0.2.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.1.1...0.2.0) (2023-02-06)
+
+
+### Features
+
+* add config for playwright ([5c1426f](https://github.com/evionica-devs/eslint-config-evionica/commit/5c1426faf4afef8b438017b87b5611b4ac1851de))
+
 ## [0.1.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.1.0...0.1.1) (2023-02-04)
 
 
