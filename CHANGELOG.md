@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.2.0...0.2.1) (2023-02-06)
+
+
+### Bug Fixes
+
+* add missing export ([60b8144](https://github.com/evionica-devs/eslint-config-evionica/commit/60b81443e72b105dabd68dc72301ac7dc315ee47))
+
 # [0.2.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.1.1...0.2.0) (2023-02-06)
 
 
