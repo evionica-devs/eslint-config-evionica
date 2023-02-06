@@ -7,7 +7,8 @@
     ".": "./src/base.js",
     "./base": "./src/base.js",
     "./ts": "./src/ts.js",
-    "./vue": "./src/vue.js"
+    "./vue": "./src/vue.js",
+    "./playwright": "./src/playwright.js"
   },
   "keywords": [
     "eslint",
