@@ -16,7 +16,6 @@ module.exports = {
     "new-cap":                                          "off",
     "multiline-comment-style":                          "off",
     "max-statements":                                   ["warn", 24, { "ignoreTopLevelFunctions": true }],
-    "unicorn/prefer-node-protocol":                     "off",
   },
 
   overrides: [

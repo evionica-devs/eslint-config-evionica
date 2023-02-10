@@ -100,5 +100,8 @@ module.exports = {
 
     // Enforce removal unused es6 module imports
     "unused-imports/no-unused-imports": "error",
+
+    // Unfortunate, but we need to turn this off in monorepos
+    "unicorn/prefer-node-protocol":                     "off",
   },
 }
