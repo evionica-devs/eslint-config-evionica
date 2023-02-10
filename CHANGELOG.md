@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.1...0.3.2) (2023-02-10)
+
+
+### Bug Fixes
+
+* turnoff unicorn/prefer-node-protocol in playwright ([f5d387d](https://github.com/evionica-devs/eslint-config-evionica/commit/f5d387d70bb73f23fca21b97fd9a9a016cc356c8))
+
 ## [0.3.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.0...0.3.1) (2023-02-10)
 
 
