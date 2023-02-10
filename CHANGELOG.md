@@ -1,5 +1,12 @@
 # Changelog
 
+# [0.3.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.2.1...0.3.0) (2023-02-10)
+
+
+### Features
+
+* switch max-stetements to warning in playwright ([c1dd3ef](https://github.com/evionica-devs/eslint-config-evionica/commit/c1dd3ef99b5c7163379900c372447eb8d08feb79))
+
 ## [0.2.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.2.0...0.2.1) (2023-02-06)
 
 
