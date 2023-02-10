@@ -15,6 +15,7 @@ module.exports = {
     "unicorn/prevent-abbreviations":                    "warn",
     "new-cap":                                          "off",
     "multiline-comment-style":                          "off",
+    "max-stetements":                                   ["warn", 24, { "ignoreTopLevelFunctions": true }],
   },
 
   overrides: [
