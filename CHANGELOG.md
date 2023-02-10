@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.0...0.3.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* typo ([847806a](https://github.com/evionica-devs/eslint-config-evionica/commit/847806aa2dea4b71ea684001df0dacdaeca5c7fb))
+
 # [0.3.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.2.1...0.3.0) (2023-02-10)
 
 
