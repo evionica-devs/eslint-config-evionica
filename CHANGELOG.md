@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.5](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.4...0.3.5) (2023-02-12)
+
+
+### Bug Fixes
+
+* resolve issue with overwritting ([675be94](https://github.com/evionica-devs/eslint-config-evionica/commit/675be94ac7cc20c26695d4655768ee2f08573168))
+
 ## [0.3.4](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.3...0.3.4) (2023-02-10)
 
 ## [0.3.3](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.2...0.3.3) (2023-02-10)
