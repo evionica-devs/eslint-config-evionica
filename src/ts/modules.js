@@ -30,5 +30,8 @@ module.exports = {
 
     // Disallow empty exports that don't change anything in a module file
     "@typescript-eslint/no-useless-empty-export": "error",
+
+    // Unfortunate, but we need to turn this off in monorepos
+    "unicorn/prefer-node-protocol": "off",
   },
 }

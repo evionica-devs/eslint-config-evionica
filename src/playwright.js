@@ -16,6 +16,8 @@ module.exports = {
     "new-cap":                                          "off",
     "multiline-comment-style":                          "off",
     "max-statements":                                   ["warn", 24, { "ignoreTopLevelFunctions": true }],
+    // Unfortunate, but we need to turn this off in monorepos
+    "unicorn/prefer-node-protocol": "off",
   },
 
   overrides: [
