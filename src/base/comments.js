@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
     // Enforce a particular style for multiline comments
-    "multiline-comment-style": [ "error", "starred-block" ],
+    "multiline-comment-style": "off",
 
     // Enforce consistent spacing after the // or /* in a comment
     "spaced-comment": [
@@ -11,15 +11,7 @@ module.exports = {
     ],
 
     // Enforce or disallow capitalization of the first letter of a comment
-    "capitalized-comments": [
-      "error",
-      "always",
-      {
-        ignorePattern:             "eslint|c8|prettier|ts-expect-error|ts-ignore",
-        ignoreInlineComments:      true,
-        ignoreConsecutiveComments: true,
-      },
-    ],
+    "capitalized-comments": "off",
 
     // Enforce position of line comments
     "line-comment-position": [ "error", { "position": "above" } ],
