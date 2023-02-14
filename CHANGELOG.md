@@ -1,5 +1,12 @@
 # Changelog
 
+# [0.4.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.6...0.4.0) (2023-02-14)
+
+
+### Features
+
+* change comments to flat ([a3b7b28](https://github.com/evionica-devs/eslint-config-evionica/commit/a3b7b28730673e037894d9f84121e33e79ce1c2c))
+
 ## [0.3.6](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.5...0.3.6) (2023-02-14)
 
 
