@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.6](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.5...0.3.6) (2023-02-14)
+
+
+### Bug Fixes
+
+* add missing ts eslint deps ([6ce1cb7](https://github.com/evionica-devs/eslint-config-evionica/commit/6ce1cb71092078fced8e19aa66f9f99233655dd3))
+
 ## [0.3.5](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.4...0.3.5) (2023-02-12)
 
 
