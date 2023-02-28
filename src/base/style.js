@@ -257,5 +257,14 @@ module.exports = {
     ],
 
     "unicorn/switch-case-braces": "off",
+
+    "unicorn/prevent-abbreviations": [
+      "error",
+      {
+        allowList: {
+          "props": true,   
+        }
+      }
+    ]
   },
 }
