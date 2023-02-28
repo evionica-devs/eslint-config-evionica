@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.0...0.4.1) (2023-02-28)
+
+
+### Bug Fixes
+
+* switch off stupid switch braces ([b6bb8b7](https://github.com/evionica-devs/eslint-config-evionica/commit/b6bb8b7ed3600b747a5a0c5085737e72461c8ad6))
+
 # [0.4.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.3.6...0.4.0) (2023-02-14)
 
 
