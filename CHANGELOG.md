@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.2](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.1...0.4.2) (2023-02-28)
+
+
+### Bug Fixes
+
+* allow props abbreviation ([cc2f12d](https://github.com/evionica-devs/eslint-config-evionica/commit/cc2f12d258585a240f137d24415683670b93eb97))
+
 ## [0.4.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.0...0.4.1) (2023-02-28)
 
 
