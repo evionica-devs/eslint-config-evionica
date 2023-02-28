@@ -255,5 +255,7 @@ module.exports = {
       { blankLine: "always", prev: "try", next: "*" },
       { blankLine: "always", prev: [ "case", "default" ], next: "*" },
     ],
+
+    "unicorn/switch-case-braces": "off",
   },
 }
