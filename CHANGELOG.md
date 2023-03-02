@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.3](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.2...0.4.3) (2023-03-02)
+
+
+### Bug Fixes
+
+* add missing vue-eslint-parser ([d03393c](https://github.com/evionica-devs/eslint-config-evionica/commit/d03393cdf7b5acd001670f3aa4a8954288154eca))
+
 ## [0.4.2](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.1...0.4.2) (2023-02-28)
 
 
