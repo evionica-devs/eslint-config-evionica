@@ -7,23 +7,23 @@ module.exports = {
     "spaced-comment": [
       "error",
       "always",
-      { "markers": [ "/" ]},
+      { "markers": ["/"] },
     ],
 
     // Enforce or disallow capitalization of the first letter of a comment
     "capitalized-comments": "off",
 
     // Enforce position of line comments
-    "line-comment-position": [ "error", { "position": "above" } ],
+    "line-comment-position": ["error", { "position": "above" }],
 
     // Require empty lines around comments
     "lines-around-comment": [
       "error",
       {
         "beforeBlockComment": true,
-        "afterBlockComment":  false,
-        "beforeLineComment":  false,
-        "afterLineComment":   false,
+        "afterBlockComment": false,
+        "beforeLineComment": false,
+        "afterLineComment": false,
       },
     ],
   },

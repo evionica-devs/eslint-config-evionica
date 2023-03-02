@@ -19,6 +19,7 @@ specifiers:
   husky: ^8.0.0
   release-it: ^15.6.0
   typescript: ^4.9.0
+  vue-eslint-parser: ^9.1.0
 
 dependencies:
   '@typescript-eslint/eslint-plugin': 5.52.0_ax36r7lnq4exysbjfqyma6v3xa
@@ -33,6 +34,7 @@ dependencies:
   eslint-plugin-unicorn: 45.0.2_eslint@8.33.0
   eslint-plugin-unused-imports: 2.0.0_agc3vtwb3htpiz6iuip3kmq224
   eslint-plugin-vue: 9.9.0_eslint@8.33.0
+  vue-eslint-parser: 9.1.0_eslint@8.33.0
 
 devDependencies:
   '@commitlint/cli': 17.4.2
