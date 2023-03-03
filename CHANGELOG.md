@@ -1,5 +1,12 @@
 # Changelog
 
+# [0.5.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.3...0.5.0) (2023-03-03)
+
+
+### Features
+
+* add config for vitest ([82bc77c](https://github.com/evionica-devs/eslint-config-evionica/commit/82bc77c78975c62d70a381ce583adaf6c0bcf6c4))
+
 ## [0.4.3](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.2...0.4.3) (2023-03-02)
 
 
