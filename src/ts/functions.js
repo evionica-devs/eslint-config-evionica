@@ -15,5 +15,14 @@ module.exports = {
 
     // Require function parameters to be typed as readonly to prevent accidental mutation of inputs
     "@typescript-eslint/prefer-readonly-parameter-types": "off",
+
+    // Allow to use underscore as parameter name
+    "id-length":                                          [ "warn", {
+      "exceptions": [ "_" ],
+      "min":        2,
+    } ],
+
+    // Allow to chain many methods in the same line
+    "newline-per-chained-call": "off",
   },
 }

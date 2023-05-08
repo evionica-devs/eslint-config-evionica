@@ -38,5 +38,8 @@ module.exports = {
      * Using Boolean() object wrapper is not recommended & less performant
      */
     "@typescript-eslint/strict-boolean-expressions": "off",
+
+    // Allow to assign null value
+    "unicorn/no-null": "off",
   },
 }
