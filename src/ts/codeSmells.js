@@ -4,19 +4,20 @@ module.exports = {
     "no-implied-eval":                    "off",
     "@typescript-eslint/no-implied-eval": "error",
 
-    // Disallow magic numbers
-    "no-magic-numbers":                    "off",
+    // Disallow magic numbers except 0
+    "no-magic-numbers":                    [ "warn", { "ignore": [ 0 ]} ],
     "@typescript-eslint/no-magic-numbers": [
-      "warn",
-      {
-        ignoreArrayIndexes:            true,
-        ignoreDefaultValues:           true,
-        ignoreEnums:                   true,
-        ignoreNumericLiteralTypes:     true,
-        ignoreReadonlyClassProperties: true,
-        ignoreTypeIndexes:             true,
-      },
-    ],
+    "warn",
+    {
+      ignore:                        [ 0 ],
+      ignoreArrayIndexes:            true,
+      ignoreDefaultValues:           true,
+      ignoreEnums:                   true,
+      ignoreNumericLiteralTypes:     true,
+      ignoreReadonlyClassProperties: true,
+      ignoreTypeIndexes:             true,
+     },
+  ],
 
     // Disallow unused expressions
     "no-unused-expressions":                    "off",

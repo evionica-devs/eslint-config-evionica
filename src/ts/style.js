@@ -24,6 +24,9 @@ module.exports = {
       },
     ],
 
+    // Allow inline comments
+    "line-comment-position": "off",
+
     // Enforce consistent indentation
     "indent":                    "off",
     // This TS rule could make some problems - think about replacing it with prettier

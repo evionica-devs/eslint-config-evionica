@@ -42,5 +42,8 @@ module.exports = {
     // Disallow duplicate class members
     "no-dupe-class-members":                    "off",
     "@typescript-eslint/no-dupe-class-members": "error",
+
+    // Allow some class methods without use of "this" inside
+    "class-methods-use-this": [ "warn", { "exceptMethods": [ "selectors", "toEntity", "toApiRequest", "generateLocalKey" ]} ],
   },
 }
