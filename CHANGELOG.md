@@ -1,5 +1,13 @@
 # Changelog
 
+# [0.6.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.5.1...0.6.0) (2023-11-09)
+
+
+### Features
+
+* install dependencies with correct node version ([f7c0b9f](https://github.com/evionica-devs/eslint-config-evionica/commit/f7c0b9f82b0da59b0716045231e0ec6212e2a572))
+* update vue eslint ([00a5681](https://github.com/evionica-devs/eslint-config-evionica/commit/00a5681bcee4b7901b081a55a0d57d333ce536bc))
+
 ## [0.5.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.5.0...0.5.1) (2023-05-08)
 
 # [0.5.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.4.3...0.5.0) (2023-03-03)
