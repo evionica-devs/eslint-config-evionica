@@ -1,5 +1,12 @@
 # Changelog
 
+# [0.7.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.6.0...0.7.0) (2023-11-09)
+
+
+### Features
+
+* update vue-eslint-parser ([0c9ad17](https://github.com/evionica-devs/eslint-config-evionica/commit/0c9ad1714745b04a83f6df222eb2835da1f228e2))
+
 # [0.6.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.5.1...0.6.0) (2023-11-09)
 
 
