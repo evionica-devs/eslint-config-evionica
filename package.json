@@ -38,8 +38,8 @@
   },
   "packageManager": "pnpm@7.18.0",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.52.0",
-    "@typescript-eslint/parser": "^5.52.0",
+    "@typescript-eslint/eslint-plugin": "6.10.0",
+    "@typescript-eslint/parser": "6.10.0",
     "eslint": "^8.29.0",
     "eslint-import-resolver-typescript": "^3.5.2",
     "eslint-plugin-compat": "^4.0.2",
@@ -48,7 +48,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-tsdoc": "^0.2.17",
     "eslint-plugin-unicorn": "^45.0.1",
-    "eslint-plugin-unused-imports": "^2.0.0",
+    "eslint-plugin-unused-imports": "3.0.0",
     "eslint-plugin-vue": "^9.18.1",
     "vue-eslint-parser": "^9.3.2"
   },
@@ -58,7 +58,7 @@
     "@release-it/conventional-changelog": "^5.1.1",
     "husky": "^8.0.0",
     "release-it": "^15.6.0",
-    "typescript": "^4.9.0"
+    "typescript": "5.2.2"
   },
   "scripts": {
     "prepare": "husky install",
