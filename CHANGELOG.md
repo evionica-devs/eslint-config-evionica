@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.7.1](https://github.com/evionica-devs/eslint-config-evionica/compare/0.7.0...0.7.1) (2023-11-10)
+
 # [0.7.0](https://github.com/evionica-devs/eslint-config-evionica/compare/0.6.0...0.7.0) (2023-11-09)
 
 
